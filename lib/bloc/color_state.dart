@@ -1,9 +1,12 @@
 part of 'color_bloc.dart';
 
 class ColorState {
-  Color colorvalue;
+  List<User> userList;
+  
+  int? index;
 
   ColorState({
-    required this.colorvalue,
+    this.index,
+    required this.userList,
   });
 }
