@@ -1,16 +1,10 @@
-# chang_background
+# Flutter BLoC
 
-A new Flutter project.
+My first app for State management using BLoC pattern in Flutter
 
-## Getting Started
+## Color Change using BLoC
 
-This project is a starting point for a Flutter application.
+![](https://github.com/HarshilPatel18/flutter_bloc_example/blob/master/change_color.giff)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Listview Item Data Update using BLoc
+![](https://github.com/HarshilPatel18/flutter_bloc_example/blob/master/change_listview.gif)
